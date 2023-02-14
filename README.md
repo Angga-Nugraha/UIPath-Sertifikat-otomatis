@@ -18,4 +18,5 @@ Sertifikasi otomatis dengan UIPath Studio adalah sebuah teknologi yang menerapka
 6.	Setelah program di run, program akan meminta anda untuk menekan shortcut keyboard “Alt + enter” untuk memulai trigger automation-nya.
 
 ![image](https://user-images.githubusercontent.com/76716099/218665677-dfaf164e-b05e-4fda-8999-989d2877b9bf.png)
+
 8.	Tunggu sampai program menjalankan tugasnya. Dan jika sudah selesai program akan memberikan message box dengan pesan “Semua sertifikat telah dikirim ke masing-masing email peserta”.
