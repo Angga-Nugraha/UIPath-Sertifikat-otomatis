@@ -1,7 +1,7 @@
 # UIPath-Sertifikat-otomatis
 Sertifikasi otomatis dengan UIPath Studio adalah sebuah teknologi yang menerapkan RPA (Robotic Procession Automation), dimana kita dapat melakukan kegiatan yang berulang-ulang yang akan dilakukan secara otomatis dengan robot. Yaitu tadi dalam aplikasi ini akan mebuatkan secara otomatis sertifikat dan mengirimkan sertifikatnya ke email masing-masing pendaftar secara otomatis. Untuk dapat menggunakan aplikasi ini ada beberapa tools yang harus di siapkan diantaranya :
 1.	Akun Orchestrator, kalian bisa daftar dan mendapatkan Trial akses aplikasi.
-2.	Intsal UIPath Studio community, bisa kalian unduh jika sudah mendaftar akun *Orchestrator*.
+2.	Intsal UIPath Studio community, bisa kalian unduh jika sudah mendaftar akun [*Orchestrator*](https://www.uipath.com/product/orchestrator).
 3.	Format sertifikat yang dibuat. 3
 4.	Google chrome yang sudah sync dengan email dan menginstall extension UIPath web Automation.
 5.	Links google forms untuk mengambil data pendaftar jika melakukan pendaftaran melalui Google forms (opsional).
