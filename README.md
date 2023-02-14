@@ -16,5 +16,6 @@ Sertifikasi otomatis dengan UIPath Studio adalah sebuah teknologi yang menerapka
 5.	Setelah semua tahap di atas selesai, program siap di jalankan, dengan mengklik “run file” pada menu toolbars di UIPath Studio.
 ![image](https://user-images.githubusercontent.com/76716099/218665606-d3823937-b0d3-4508-8482-3bfa8db38b34.png)
 6.	Setelah program di run, program akan meminta anda untuk menekan shortcut keyboard “Alt + enter” untuk memulai trigger automation-nya.
+
 ![image](https://user-images.githubusercontent.com/76716099/218665677-dfaf164e-b05e-4fda-8999-989d2877b9bf.png)
 8.	Tunggu sampai program menjalankan tugasnya. Dan jika sudah selesai program akan memberikan message box dengan pesan “Semua sertifikat telah dikirim ke masing-masing email peserta”.
